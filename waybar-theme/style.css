@@ -57,12 +57,12 @@
   padding: 0 4px;
   margin: 0 6px;
   opacity: 1;
-  color: #bae5ff;
+  color: #5ed0d9;
   font-size: 12px;
 }
 
 #workspaces button.active {
-    color: #e3a1a1;
+    color: #ffa398;
     opacity: 1.0;
     padding: 0 4px;
     margin: 0 6px;
@@ -177,64 +177,64 @@ tooltip label {
 /* color earch module */
 
 #custom-bar-cpu {
-  color: #e3a1a1
+  color: #ffa398
 }
 
 #battery,
 #custom-bar-mem {
-  color: #bae5ff
+  color: #5ed0d9
 }
 
 #temperature {
-  color: #9fe5c7
+  color: #a6adc8
 }
 
 #power-profiles-daemon {
-  color: #ee93e1
+  color: #b48ead
 }
 
 #pulseaudio {
-  color: #e3a1a1
+  color: #ffa398
 }
 
 #custom-bar-vol{
-  color: #e3a1a1
+  color: #ffa398
  }
  
 #network,
 #bluetooth {
-  color: #bae5ff
+  color: #5ed0d9
 }
 
 #idle_inhibitor {
-  color: #94e2d5
+  color: #ebcb8b
 }
 
 #custom-omarchy-theme-set,
 #custom-colorpicker {
-  color: #bae5ff
+  color: #5ed0d9
 }
 
 #custom-updatespacman {
-  color:#e3a1a1
+  color:#ffa398
 }
 
 #custom-omarchy {
-  color: #9fe5c7;
+  color: #a6adc8;
   font-size: 13px;
 }
 
 #backlight,
 #clock {
-  color: #dde1e6;
+  color: #f9fab4;
 }
 
 #custom-cava{
- color:#bae5ff;
+ color:#5ed0d9;
  }
 
 #custom-weather{
- color:#94e2d5;
+ color:#ebcb8b;
  }  
 /* Specific animation Module */
 
@@ -264,7 +264,7 @@ tooltip label {
 }
 
 #custom-voxtype.recording {
-  color: #e3a1a1;
+  color: #ffa398;
 }
 
 #mpris {
